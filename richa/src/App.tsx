@@ -8,3 +8,5 @@ export function App() {
     </Fragment>
   );
 }
+
+export default App;
